@@ -17,7 +17,7 @@ assignees: ''
 
 ## Link
 [pdf]()
-[official GitHub]
+[official GitHub]()
 
 # Abstract
 
