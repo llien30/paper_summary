@@ -9,14 +9,15 @@ assignees: ''
 
 # INFO
 
-## author
+## Author
 
-## affiliation
+## Affiliation
 
-## conference or year
+## Conference or Year
 
-## link
+## Link
 [pdf]()
+[official GitHub]
 
 # Abstract
 
@@ -30,4 +31,4 @@ assignees: ''
 
 # Comment
 
-# date
+## Date
