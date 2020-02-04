@@ -1,2 +1,2 @@
 # Paper summaries
-Write the summaries of papers I've read.
+Write summaries of papers I've read.
