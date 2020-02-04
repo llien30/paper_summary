@@ -16,8 +16,8 @@ assignees: ''
 ## Conference or Year
 
 ## Link
-[pdf]()
-[official GitHub]()
+- [arxiv]()
+- [official GitHub]()
 
 # Abstract
 
