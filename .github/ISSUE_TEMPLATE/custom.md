@@ -16,7 +16,7 @@ assignees: ''
 ## Conference or Year
 
 ## Link
-- [arxiv]()
+- [arXiv]()
 - [official GitHub]()
 
 # Abstract
@@ -27,8 +27,8 @@ assignees: ''
 
 # Contribution
 
-# Discussion, Feature Work
+# Discussion, Future Work
 
-# Comment
+## Comment
 
 ## Date
